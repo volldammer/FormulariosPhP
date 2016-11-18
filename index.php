@@ -15,8 +15,9 @@ ejemplo de un formulario un poquito mas completo
                 <option>Barcelona</option>
                 <option>Girona</option>
                 <option>Lleida</option>
-                <option>Tarragona</option
-            </select>
+                <option>Tarragona</option>
+             </select>
+            
              <p>Sexo: 
             Hombre<input type="radio" name="sexo" value="hombre">
             Mujer<input type="radio" name="sexo" value="mujer">
